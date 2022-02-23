@@ -16,7 +16,7 @@ Esta é uma resolução para o [Single price grid component challenge on Fronten
 Projeto desenvolvido para treino e auxílio no desenvolvimento das habilidades com HTML e CSS.
 
 ### Screenshot
-![](.assets/images/screenshot.png)
+![](/assets/images/screenshot.png)
 
 ### Links
 - Endereço da Solução: [Respositório em meu GitHub](https://github.com/juniorrdgs/single-price-grid-component)
